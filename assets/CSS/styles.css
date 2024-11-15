@@ -9,7 +9,7 @@ body {
 }
 
 header {
-  background-color: #a8d5ba;  /* Light greenish header */
+  background-color: #d9eed9;  /* Light greenish header */
   color: black;
   padding: 1.5em;
   text-align: center;
@@ -42,7 +42,7 @@ nav ul li {
 }
 
 nav ul li a {
-  color: green;
+  color: #4caf50;
   text-decoration: none;
   font-weight: bold;
   font-size: 1rem;
@@ -118,7 +118,7 @@ h2 {
 
 /* Footer styles */
 footer {
-  background-color: green;  /* Same green as the nav */
+  background-color: #124314;  /* Same green as the nav */
   color: white;
   text-align: center;
   padding: 1.5em;
